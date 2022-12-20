@@ -1,0 +1,15 @@
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\bin\Debug\net6.0\DopZ_PZ_10.exe
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\bin\Debug\net6.0\DopZ_PZ_10.deps.json
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\bin\Debug\net6.0\DopZ_PZ_10.runtimeconfig.json
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\bin\Debug\net6.0\DopZ_PZ_10.dll
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\bin\Debug\net6.0\DopZ_PZ_10.pdb
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.csproj.AssemblyReference.cache
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.AssemblyInfoInputs.cache
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.AssemblyInfo.cs
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.csproj.CoreCompileInputs.cache
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.dll
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\refint\DopZ_PZ_10.dll
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.pdb
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\DopZ_PZ_10.genruntimeconfig.cache
+C:\Users\eCoolGe\source\repos\DopZ_PZ_10\obj\Debug\net6.0\ref\DopZ_PZ_10.dll
