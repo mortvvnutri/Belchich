@@ -1,0 +1,30 @@
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\bin\Debug\net6.0\PZ_4.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\bin\Debug\net6.0\PZ_4.deps.json
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\bin\Debug\net6.0\PZ_4.runtimeconfig.json
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\bin\Debug\net6.0\PZ_4.dll
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\bin\Debug\net6.0\PZ_4.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.AssemblyInfoInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.AssemblyInfo.cs
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.dll
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\refint\PZ_4.dll
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\PZ_4.genruntimeconfig.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\PZ_4\obj\Debug\net6.0\ref\PZ_4.dll
+C:\Users\Любовь\Desktop\PZ_4\bin\Debug\net6.0\PZ_4.exe
+C:\Users\Любовь\Desktop\PZ_4\bin\Debug\net6.0\PZ_4.deps.json
+C:\Users\Любовь\Desktop\PZ_4\bin\Debug\net6.0\PZ_4.runtimeconfig.json
+C:\Users\Любовь\Desktop\PZ_4\bin\Debug\net6.0\PZ_4.dll
+C:\Users\Любовь\Desktop\PZ_4\bin\Debug\net6.0\PZ_4.pdb
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.AssemblyInfoInputs.cache
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.AssemblyInfo.cs
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.dll
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\refint\PZ_4.dll
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.pdb
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\PZ_4.genruntimeconfig.cache
+C:\Users\Любовь\Desktop\PZ_4\obj\Debug\net6.0\ref\PZ_4.dll
