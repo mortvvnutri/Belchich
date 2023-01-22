@@ -1,0 +1,15 @@
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.AssemblyInfoInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.AssemblyInfo.cs
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\bin\Debug\net6.0\SR_1.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\bin\Debug\net6.0\SR_1.deps.json
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\bin\Debug\net6.0\SR_1.runtimeconfig.json
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\bin\Debug\net6.0\SR_1.dll
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\bin\Debug\net6.0\SR_1.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.dll
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\refint\SR_1.dll
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\SR_1.genruntimeconfig.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\SR_1\obj\Debug\net6.0\ref\SR_1.dll

@@ -1,0 +1,8 @@
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\bin\Debug\Фигуры.exe.config
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\bin\Debug\Фигуры.exe
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\bin\Debug\Фигуры.pdb
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\obj\Debug\Фигуры.csproj.AssemblyReference.cache
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\obj\Debug\Фигуры.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\obj\Debug\Фигуры.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\obj\Debug\Фигуры.exe
+C:\Users\dimas\Desktop\Pract9\Фигуры\Фигуры\obj\Debug\Фигуры.pdb
