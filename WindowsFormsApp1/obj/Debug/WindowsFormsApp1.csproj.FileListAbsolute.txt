@@ -1,0 +1,11 @@
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
