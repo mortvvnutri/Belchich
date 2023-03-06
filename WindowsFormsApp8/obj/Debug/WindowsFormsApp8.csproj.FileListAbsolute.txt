@@ -1,0 +1,33 @@
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Belchich\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\eCoolGe\Downloads\Telegram Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+C:\Users\Любовь\Desktop\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Любовь\Desktop\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Любовь\Desktop\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Любовь\Desktop\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
